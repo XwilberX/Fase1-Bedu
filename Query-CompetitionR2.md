@@ -95,7 +95,7 @@
 }}]
 ```
 - ### Top 5 de países con más muertes
-``json
+```json
 {
  filter: {
   Deaths: {
@@ -115,7 +115,9 @@
  limit: 5
 }
 ```
+
 - ### Top 5 de países con menos muertes
+
 ```json
 {
  filter: {
